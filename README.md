@@ -59,4 +59,6 @@ Here are the parameters of our simulations.
 | $\|\mathcal{D}_0\|$ | $128$     | the size of the mini-batch buffer   |
 | $\|\mathcal{D}\|$        | $10^{6}$      | the maximal size of the experevce buffer    |
 
-
+### Variants (`--model_type`):
+ - `'star'` (imitation)
+ - `'star_rwd'` (offline RL)
