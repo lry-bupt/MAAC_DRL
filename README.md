@@ -7,6 +7,7 @@ We learn the multi-agent actor-critic deep reinforcement learning (MAAC-DRL) alg
 
 Here are the setting of our simulations.
 
+
 | Notation     | Simulation Value   | Physical Meaning                                             |
 | ------------ | ------------------ | ------------------------------------------------------------ |
 | $K$      | $\{2, 4, 6\}$                | the number of users    |
@@ -19,6 +20,8 @@ Here are the setting of our simulations.
 | $P_{\max}$  | $[0.02, 0.1] \ {\rm W}$   | the maximal transmit power |
 | $\sigma^2$     | $-100 \ {\rm dBm/Hz}$   | the variance of the additive white Gaussian noise                  |
 | $v$          | $5 \ {\rm m/s}$    | the moving speed    |
+
+
 
 ## Results
 <table style="padding: 0; border-spacing: 0;">
