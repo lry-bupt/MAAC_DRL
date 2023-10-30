@@ -59,25 +59,25 @@ Here are the parameters of our simulations.
 | $\|\mathcal{D}_0\|$ | $128$     | the size of the mini-batch buffer   |
 | $\|\mathcal{D}\|$        | $10^{6}$      | the maximal size of the experevce buffer    |
 
-### algorithm (`--python codes of different MA-DRL algorithms`):
+### algorithm (`python codes of different MA-DRL algorithms`):
  - `'MA-DDPG_main.py'` (Main functions and MDP transitions of MA-DDPG)
  - `'MA-PPO_main.py'` (Main functions and MDP transitions of MA-PPO)
  - `'MA-SAC_main.py'` (Main functions and MDP transitions of MA-SAC)
  - `'MA-TD3_core.py'` (MLP operators of MA-TD3)
  - `'MA-TD3_main.py'` (Main functions and MDP transitions of MA-TD3)
 
-### environment (`--documents of considered system`):
+### environment (`documents of considered system`):
  - `'environment.yaml'` (Conda environmental document)
  - `'requirements.txt'` (Pip environmental document)
 
-### plot_figure (`--matlab codes of different algorithms`):
+### plot_figure (`matlab codes of different algorithms`):
  - `'FIGURE_1.m'` (Reward comparison under different MA-DRL algorithms)
  - `'FIGURE_2.m'` (Robots' trajectory comparison under different reward settings)
  - `'FIGURE_3.m'` (Average decoding error probability under different clustering and multiple access scheme)
  - `'FIGURE_4.m'` (Objective function under different environmental settings)
  - `'FIGURE_5.m'` (Arriving time under different environmental settings)
 
-### radio_map (`--documents of building environment`):
+### radio_map (`documents of building environment`):
  - `'AABB_plot.m'` (Construct a radio map based on the deployment of obstacles and intersection detection)
  - `'map_data.mat'` (Raw data of the built radio map)
 
