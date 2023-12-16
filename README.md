@@ -1,9 +1,9 @@
 # MAAC_DRL
-This repository contains the Python implementation of our submitted paper titled "Deep Reinforcement Learning for Joint Trajectory and Communication Design in Internet of Robotic Things" .
+This repository contains the Python implementation of our submitted paper titled "Deep Reinforcement Learning Enables Joint Trajectory and Communication in Internet of Robotic Things" .
 ## Quick Links
 [[Installation]](#installation)  [[Installation]](#installation) [[Usage]](#usage) 
 ## Introduction
-We learn the multi-agent actor-critic deep reinforcement learning (MAAC-DRL) algorithms to reduce the decoding error rate and arriving time of robots in industrial Internet of Robotic Things () with the requirements of ultra-reliable and low-latency communications.
+We learn the multi-agent actor-critic deep reinforcement learning (MAAC-DRL) algorithms to reduce the decoding error rate and arriving time of robots in industrial Internet of Robotic Things (IoRT) with the requirements of ultra-reliable and low-latency communications.
 
 Here are the settings of the considered IoRT environment.
 | Notation     | Simulation Value   | Physical Meaning                                             |
